@@ -110,3 +110,21 @@ deploy:
   delete: true
   verbose: true
   ignore_errors: false
+
+# Next Theme Config
+# Remove unnecessary files after hexo generate.
+minify: true
+# scheme: Muse
+# scheme: Mist
+scheme: Pisces
+# scheme: Gemini
+
+darkmode: true
+creative_commons:
+  license: by-nc-sa
+  sidebar: true
+  post: true
+  language: deed.zh
+menu_settings:
+  icons: true
+  badges: true
