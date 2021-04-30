@@ -1,5 +1,5 @@
 ---
-title: Hexo博客搭建记录
+title: Hexo博客搭建记录(一)
 date: 2021-04-29 23:37:16
 categories: 打磨博客
 tags:
